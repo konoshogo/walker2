@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorMain</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="WalkMeter">歩数を計測する</string>
+    <string name="GPS">GPS測定する</string>
+    <string name="QR_Cord">QRコードを読み取る</string>
+    <string name="shake_count">シェイク数: %s</string>
+    <string name="summary"></string>
+    <string name="label_shake"></string>
+
+
+
+</resources>
